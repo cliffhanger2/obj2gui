@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="OBJ2GUI/Object2GUI.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/OBJ2GUI/exportObject2GUILIB.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" manifestLocation="/OBJ2GUI/MANIFEST.MF" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=OBJ2GUI/src"/>
+        <javaElement handleIdentifier="=WaxLib/WaxLib&lt;WaxLibrary.Graphics.Component"/>
+        <javaElement handleIdentifier="=WaxLib/WaxLib&lt;WaxLibrary.Graphics.Component.JList"/>
+        <javaElement handleIdentifier="=WaxLib/WaxLib&lt;WaxLibrary.Graphics.Component.WaxSlider"/>
+        <javaElement handleIdentifier="=WaxLib/WaxLib&lt;WaxLibrary.Graphics.Component.JWTextField"/>
+        <javaElement handleIdentifier="=WaxLib/WaxLib&lt;WaxLibrary.Graphics.Component.DateChooser"/>
+    </selectedElements>
+    <fatjar builder="org.eclipse.jdt.ui.plain_jar_builder" launchConfig=""/>
+</jardesc>
