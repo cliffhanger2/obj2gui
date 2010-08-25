@@ -12,11 +12,5 @@
     </manifest>
     <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
         <javaElement handleIdentifier="=OBJ2GUI/src"/>
-        <javaElement handleIdentifier="=WaxLib/WaxLib&lt;WaxLibrary.Graphics.Component"/>
-        <javaElement handleIdentifier="=WaxLib/WaxLib&lt;WaxLibrary.Graphics.Component.JList"/>
-        <javaElement handleIdentifier="=WaxLib/WaxLib&lt;WaxLibrary.Graphics.Component.WaxSlider"/>
-        <javaElement handleIdentifier="=WaxLib/WaxLib&lt;WaxLibrary.Graphics.Component.JWTextField"/>
-        <javaElement handleIdentifier="=WaxLib/WaxLib&lt;WaxLibrary.Graphics.Component.DateChooser"/>
     </selectedElements>
-    <fatjar builder="org.eclipse.jdt.ui.plain_jar_builder" launchConfig=""/>
 </jardesc>
